@@ -8,7 +8,6 @@ class Main {
   static function main() {
       var c = Connection2.new_from_sys_db_con("new Scheme()");
       c.
-
       // 1) this app compiles
       // 2) expected completion after c. :  query(.. 
       //    which does not happen

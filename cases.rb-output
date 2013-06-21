@@ -1,0 +1,35 @@
+running bytecode_work
+running bytecode
+running native_work
+running native
+d41d8cd98f00b204e9800998ecf8427e  bytecode_work
+d41d8cd98f00b204e9800998ecf8427e  bytecode
+d41d8cd98f00b204e9800998ecf8427e  native_work
+d41d8cd98f00b204e9800998ecf8427e  native
+e73a3545bdd06e76b955a9c7b2530cf0  bytecode_work.err
+e73a3545bdd06e76b955a9c7b2530cf0  bytecode.err
+37539a49fb36b743fbe88e5672e0d43d  native_work.err
+e73a3545bdd06e76b955a9c7b2530cf0  native.err
+==== result bytecode_work out
+====             err
+<type>
+Unknown&lt;0&gt;
+</type>
+
+==== result bytecode out
+====             err
+<type>
+Unknown&lt;0&gt;
+</type>
+
+==== result native_work out
+====             err
+<list>
+<i n="query"><t>Void -&gt; Dynamic</t><d></d></i>
+</list>
+
+==== result native out
+====             err
+<type>
+Unknown&lt;0&gt;
+</type>

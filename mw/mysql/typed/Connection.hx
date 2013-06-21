@@ -16,10 +16,7 @@ class Connection2<Const> {
   }
 
   macro public function query(connection: Expr):Expr {
-    // dummy implementation
-#if WORK
     return null;
-#end
   }
 
 }
